@@ -74,11 +74,11 @@ Install all the required dependencies using:
 pip install -r requirements.txt
 ```
 
-**Application Preview**
+## Application Preview
 
 The screenshot below shows the Streamlit web application used for predicting medical insurance charges.
 
-![Streamlit Application](images/streamlit_app.png)
+![Streamlit Application](streamlit_app.png)
 **Run the Project**
 
 ```bash
